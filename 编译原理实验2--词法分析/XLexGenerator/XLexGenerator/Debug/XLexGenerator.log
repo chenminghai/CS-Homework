@@ -1,0 +1,5 @@
+﻿  XLexGeneratorDlg.cpp
+c:\users\cmh\desktop\大三文件集\编译原理\我的实验作业\20162180198陈铭海-编译原理实验二\xlexgenerator\xlexgenerator\mystack.h(97): warning C4715: “LinkedStack<char>::GetTop”: 不是所有的控件路径都返回值
+c:\users\cmh\desktop\大三文件集\编译原理\我的实验作业\20162180198陈铭海-编译原理实验二\xlexgenerator\xlexgenerator\mystack.h(88): warning C4715: “LinkedStack<char>::Pop”: 不是所有的控件路径都返回值
+c:\users\cmh\desktop\大三文件集\编译原理\我的实验作业\20162180198陈铭海-编译原理实验二\xlexgenerator\xlexgenerator\mystack.h(88): warning C4715: “LinkedStack<int>::Pop”: 不是所有的控件路径都返回值
+  XLexGenerator.vcxproj -> C:\Users\cmh\Desktop\大三文件集\编译原理\我的实验作业\20162180198陈铭海-编译原理实验二\XLexGenerator\Debug\XLexGenerator.exe
