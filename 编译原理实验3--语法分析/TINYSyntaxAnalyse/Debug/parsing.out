@@ -1,0 +1,83 @@
+
+TINY COMPILATION: C:\Users\cmh\Desktop\test.cpp
+
+>>> Syntax error at line 104: unexpected token -> reserved word: else
+
+>>> Syntax error at line 105: unexpected token -> ID, name= x
+      
+>>> Syntax error at line 106: unexpected token -> reserved word: end
+
+>>> Syntax error at line 107: unexpected token -> Unknown token: 11
+      
+>>> Syntax error at line 112: unexpected token -> ID, name= x
+      
+>>> Syntax error at line 112: unexpected token -> ;
+      
+>>> Syntax error at line 125: unexpected token -> EOF
+      
+Syntax tree:
+  Read: x
+  While
+    Op: <
+      Const: 0
+      Id: x
+    Assign to: x
+      Op: +
+        Id: x
+        Const: 1
+  Assign to: x
+    Op: -
+      Id: x
+      Const: 2
+  If
+    Op: <
+      Id: x
+      Const: 0
+    Assign to: x
+      Op: +
+        Id: x
+        Const: 1
+    Assign to: x
+      Op: +
+        Id: x
+        Const: 2
+    DoWhile
+      Assign to: x
+        Op: -
+          Id: x
+          Const: 2
+      While
+        Op: <
+          Const: 0
+          Id: x
+        Assign to: x
+          Op: +
+            Id: x
+            Const: 1
+      Op: <
+        Id: x
+        Const: 0
+    For
+      Assign to: i
+        Const: 1
+      Const: 5
+      Assign to: x
+        Op: +
+          Id: x
+          Const: 3
+    For
+      Assign to: i
+        Const: 6
+      Const: 2
+      Assign to: x
+        Op: -
+          Id: x
+          Const: 5
+    While
+      Op: <
+        Const: 0
+        Id: x
+      Assign to: j
+        Op: %
+          Id: j
+          Id: x
