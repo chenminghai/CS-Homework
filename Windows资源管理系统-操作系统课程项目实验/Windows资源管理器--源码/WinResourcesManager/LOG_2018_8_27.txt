@@ -1,0 +1,496 @@
+2018/8/27 20:05:57 开始监视...2018/8/27 20:05:58 停止监视...
+2018/8/27 20:09:53 开始监视...2018/8/27 20:09:55 停止监视...
+2018/8/27 20:09:56 开始监视...2018/8/27 20:09:57 停止监视...
+2018/8/27 20:09:57 开始监视...2018/8/27 20:09:58 停止监视...
+2018/8/27 20:09:59 开始监视...2018/8/27 20:10:00 停止监视...
+2018/8/27 20:10:06 开始监视...2018/8/27 20:10:10 停止监视...
+2018/8/27 20:10:18 开始监视...2018/8/27 20:10:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:10:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:10:37 ProgramData\Huorong\Sysdiag\log.db-wal 被修改  
+2018/8/27 20:10:38 ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.ContentDeliveryManager_10.0.17134.1_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat 被修改  
+2018/8/27 20:10:38 Users\cmh13\AppData\Local\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\Settings\settings.dat 被修改  
+2018/8/27 20:10:58 Windows\System32\config\DRIVERS 被修改  
+2018/8/27 20:11:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:11:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:11:15 PyCharm 5.0.3\debug-eggs 被修改  
+2018/8/27 20:11:15 PyCharm 5.0.3\help 被修改  PyCharm 5.0.3\helpers 被修改  
+2018/8/27 20:11:15 PyCharm 5.0.3\helpers\__pycache__ 被修改  PyCharm 5.0.3\helpers\coverage_runner 被修改  PyCharm 5.0.3\helpers\coveragepy 被修改  PyCharm 5.0.3\helpers\coveragepy\coverage 被修改  PyCharm 5.0.3\helpers\coveragepy\coverage\fullcoverage 被修改  
+2018/8/27 20:11:15 PyCharm 5.0.3\helpers\coveragepy\coverage\htmlfiles 被修改  PyCharm 5.0.3\helpers\epydoc 被修改  PyCharm 5.0.3\helpers\epydoc\docwriter 被修改  PyCharm 5.0.3\helpers\epydoc\markup 被修改  PyCharm 5.0.3\helpers\pockets 被修改  PyCharm 5.0.3\helpers\process 被修改  PyCharm 5.0.3\helpers\profiler 被修改  PyCharm 5.0.3\helpers\profiler\profiler 被修改  PyCharm 5.0.3\helpers\profiler\profilerpy3 被修改  PyCharm 5.0.3\helpers\profiler\thrift 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\helpers\profiler\thrift\protocol 被修改  PyCharm 5.0.3\helpers\profiler\thrift\server 被修改  PyCharm 5.0.3\helpers\profiler\thrift\transport 被修改  PyCharm 5.0.3\helpers\profiler\thriftpy3 被修改  PyCharm 5.0.3\helpers\profiler\thriftpy3\protocol 被修改  PyCharm 5.0.3\helpers\profiler\thriftpy3\server 被修改  PyCharm 5.0.3\helpers\profiler\thriftpy3\transport 被修改  PyCharm 5.0.3\helpers\py2only 被修改  PyCharm 5.0.3\helpers\py2only\docutils 被修改  PyCharm 5.0.3\helpers\py2only\docutils\languages 被修改  PyCharm 5.0.3\helpers\py2only\docutils\parsers 被修改  PyCharm 5.0.3\helpers\py2only\docutils\parsers\rst 被修改  PyCharm 5.0.3\helpers\py2only\docutils\parsers\rst\directives 被修改  PyCharm 5.0.3\helpers\py2only\docutils\parsers\rst\include 被修改  
+2018/8/27 20:11:16 未知事件!  
+2018/8/27 20:11:16 PyCharm 5.0.3\helpers\py3only\docutils 被修改  PyCharm 5.0.3\helpers\py3only\docutils\languages 被修改  PyCharm 5.0.3\helpers\py3only\docutils\parsers 被修改  PyCharm 5.0.3\helpers\py3only\docutils\parsers\rst 被修改  PyCharm 5.0.3\helpers\py3only\docutils\parsers\rst\directives 被修改  PyCharm 5.0.3\helpers\py3only\docutils\parsers\rst\include 被修改  PyCharm 5.0.3\helpers\py3only\docutils\parsers\rst\languages 被修改  PyCharm 5.0.3\helpers\py3only\docutils\readers 被修改  PyCharm 5.0.3\helpers\py3only\docutils\transforms 被修改  PyCharm 5.0.3\helpers\py3only\docutils\utils 被修改  
+2018/8/27 20:11:16 未知事件!  
+2018/8/27 20:11:16 未知事件!  
+2018/8/27 20:11:16 PyCharm 5.0.3\helpers\pydev\tests_mainloop 被修改  PyCharm 5.0.3\helpers\pydev\tests_python 被修改  PyCharm 5.0.3\helpers\pydev\tests_runfiles 被修改  PyCharm 5.0.3\helpers\pydev\tests_runfiles\samples 被修改  PyCharm 5.0.3\helpers\pydev\tests_runfiles\samples\nested_dir 被修改  PyCharm 5.0.3\helpers\pydev\tests_runfiles\samples\nested_dir\nested2 被修改  PyCharm 5.0.3\helpers\pydev\tests_runfiles\samples\nested_dir\nested3 被修改  PyCharm 5.0.3\helpers\pydev\third_party 被修改  PyCharm 5.0.3\helpers\pydev\third_party\pep8 被修改  PyCharm 5.0.3\helpers\pydev\third_party\pep8\lib2to3 被修改  PyCharm 5.0.3\helpers\pydev\third_party\pep8\lib2to3\lib2to3 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\helpers\pydev\third_party\pep8\lib2to3\lib2to3\fixes 被修改  PyCharm 5.0.3\helpers\pydev\third_party\pep8\lib2to3\lib2to3\pgen2 被修改  PyCharm 5.0.3\helpers\pydev\third_party\wrapped_for_pydev 被修改  PyCharm 5.0.3\helpers\pydev\third_party\wrapped_for_pydev\ctypes 被修改  PyCharm 5.0.3\helpers\pydev\third_party\wrapped_for_pydev\ctypes\macholib 被修改  PyCharm 5.0.3\helpers\python-skeletons 被修改  PyCharm 5.0.3\helpers\python-skeletons\asyncio 被修改  PyCharm 5.0.3\helpers\python-skeletons\django 被修改  PyCharm 5.0.3\helpers\python-skeletons\django\db 被修改  PyCharm 5.0.3\helpers\python-skeletons\django\db\models 被修改  PyCharm 5.0.3\helpers\python-skeletons\lettuce 被修改  PyCharm 5.0.3\helpers\python-skeletons\multiprocessing 被修改  PyCharm 5.0.3\helpers\python-skeletons\nose 被修改  PyCharm 5.0.3\helpers\python-skeletons\nose\tools 被修改  PyCharm 5.0.3\helpers\python-skeletons\numpy 被修改  PyCharm 5.0.3\helpers\python-skeletons\numpy\core 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\helpers\python-skeletons\os 被修改  PyCharm 5.0.3\helpers\python-skeletons\pytest 被修改  PyCharm 5.0.3\helpers\rest_runners 被修改  PyCharm 5.0.3\helpers\sphinxcontrib 被修改  PyCharm 5.0.3\helpers\sphinxcontrib\__pycache__ 被修改  PyCharm 5.0.3\helpers\sphinxcontrib\napoleon 被修改  PyCharm 5.0.3\helpers\tools 被修改  PyCharm 5.0.3\helpers\tools\python_keywords 被修改  PyCharm 5.0.3\jre 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\jre\jre 被修改  PyCharm 5.0.3\jre\jre\bin 被修改  PyCharm 5.0.3\jre\jre\bin\client 被修改  PyCharm 5.0.3\jre\jre\bin\dtplugin 被修改  PyCharm 5.0.3\jre\jre\bin\plugin2 被修改  PyCharm 5.0.3\jre\jre\bin\server 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\jre\jre\lib 被修改  PyCharm 5.0.3\jre\jre\lib\cmm 被修改  PyCharm 5.0.3\jre\jre\lib\deploy 被修改  PyCharm 5.0.3\jre\jre\lib\ext 被修改  PyCharm 5.0.3\jre\jre\lib\fonts 被修改  PyCharm 5.0.3\jre\jre\lib\i386 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\jre\jre\lib\images 被修改  PyCharm 5.0.3\jre\jre\lib\images\cursors 被修改  PyCharm 5.0.3\jre\jre\lib\jfr 被修改  PyCharm 5.0.3\jre\jre\lib\management 被修改  PyCharm 5.0.3\jre\jre\lib\security 被修改  PyCharm 5.0.3\jre\lib 被修改  
+2018/8/27 20:11:16 PyCharm 5.0.3\lib 被修改  PyCharm 5.0.3\lib\ext 被修改  PyCharm 5.0.3\lib\libpty 被修改  PyCharm 5.0.3\lib\libpty\linux 被修改  PyCharm 5.0.3\lib\libpty\linux\x86 被修改  PyCharm 5.0.3\lib\libpty\linux\x86_64 被修改  PyCharm 5.0.3\lib\libpty\macosx 被修改  PyCharm 5.0.3\lib\libpty\macosx\x86 被修改  PyCharm 5.0.3\lib\libpty\macosx\x86_64 被修改  PyCharm 5.0.3\lib\libpty\win 被修改  PyCharm 5.0.3\lib\libpty\win\x86 被修改  PyCharm 5.0.3\lib\libpty\win\x86_64 被修改  PyCharm 5.0.3\lib\libpty\win\xp 被修改  PyCharm 5.0.3\lib\src 被修改  PyCharm 5.0.3\license 被修改  PyCharm 5.0.3\plugins 被修改  PyCharm 5.0.3\plugins\AngularJS 被修改  PyCharm 5.0.3\plugins\AngularJS\lib 被修改  PyCharm 5.0.3\plugins\coffeescript 被修改  PyCharm 5.0.3\plugins\coffeescript\lib 被修改  PyCharm 5.0.3\plugins\concurrency-visualiser 被修改  PyCharm 5.0.3\plugins\concurrency-visualiser\lib 被修改  PyCharm 5.0.3\plugins\CSS 被修改  PyCharm 5.0.3\plugins\CSS\lib 被修改  PyCharm 5.0.3\plugins\cucumber 被修改  PyCharm 5.0.3\plugins\cucumber\lib 被修改  PyCharm 5.0.3\plugins\cvsIntegration 被修改  
+2018/8/27 20:11:16 未知事件!  
+2018/8/27 20:11:16 未知事件!  
+2018/8/27 20:11:16 PyCharm 5.0.3\plugins\svn4idea\lib 被修改  PyCharm 5.0.3\plugins\svn4idea\lib\licenses 被修改  PyCharm 5.0.3\plugins\tasks 被修改  PyCharm 5.0.3\plugins\tasks\lib 被修改  PyCharm 5.0.3\plugins\terminal 被修改  PyCharm 5.0.3\plugins\terminal\lib 被修改  PyCharm 5.0.3\plugins\textmate 被修改  PyCharm 5.0.3\plugins\textmate\lib 被修改  PyCharm 5.0.3\plugins\textmate\lib\themes 被修改  PyCharm 5.0.3\plugins\uml 被修改  PyCharm 5.0.3\plugins\uml\lib 被修改  PyCharm 5.0.3\plugins\vagrant 被修改  PyCharm 5.0.3\plugins\vagrant\lib 被修改  PyCharm 5.0.3\plugins\webDeployment 被修改  PyCharm 5.0.3\plugins\webDeployment\lib 被修改  PyCharm 5.0.3\skeletons 被修改  redis 被修改  
+2018/8/27 20:11:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:11:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:11:56 停止监视...
+2018/8/27 20:12:36 开始监视...2018/8/27 20:12:41 停止监视...
+2018/8/27 20:12:48 开始监视...2018/8/27 20:13:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:13:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\bookstore 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\crm 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\digital 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\my_test 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\mysql 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\performance_schema 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\store 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\sys 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\data\taotao 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\docs 被修改  MySQL\mysql-5.7.22-winx64\include 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\include\mysql 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\include\mysql\psi 被修改  MySQL\mysql-5.7.22-winx64\lib 被修改  MySQL\mysql-5.7.22-winx64\lib\mecab 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\lib\mecab\dic 被修改  MySQL\mysql-5.7.22-winx64\lib\mecab\dic\ipadic_euc-jp 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\lib\mecab\dic\ipadic_sjis 被修改  MySQL\mysql-5.7.22-winx64\lib\mecab\dic\ipadic_utf-8 被修改  MySQL\mysql-5.7.22-winx64\lib\mecab\etc 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\lib\plugin 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\lib\plugin\debug 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\share 被修改  MySQL\mysql-5.7.22-winx64\share\bulgarian 被修改  MySQL\mysql-5.7.22-winx64\share\charsets 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\share\czech 被修改  MySQL\mysql-5.7.22-winx64\share\danish 被修改  MySQL\mysql-5.7.22-winx64\share\dutch 被修改  MySQL\mysql-5.7.22-winx64\share\english 被修改  MySQL\mysql-5.7.22-winx64\share\estonian 被修改  
+2018/8/27 20:13:23 MySQL\mysql-5.7.22-winx64\share\french 被修改  MySQL\mysql-5.7.22-winx64\share\german 被修改  MySQL\mysql-5.7.22-winx64\share\greek 被修改  MySQL\mysql-5.7.22-winx64\share\hungarian 被修改  MySQL\mysql-5.7.22-winx64\share\italian 被修改  MySQL\mysql-5.7.22-winx64\share\japanese 被修改  MySQL\mysql-5.7.22-winx64\share\korean 被修改  MySQL\mysql-5.7.22-winx64\share\norwegian 被修改  MySQL\mysql-5.7.22-winx64\share\norwegian-ny 被修改  MySQL\mysql-5.7.22-winx64\share\polish 被修改  MySQL\mysql-5.7.22-winx64\share\portuguese 被修改  MySQL\mysql-5.7.22-winx64\share\romanian 被修改  MySQL\mysql-5.7.22-winx64\share\russian 被修改  MySQL\mysql-5.7.22-winx64\share\serbian 被修改  MySQL\mysql-5.7.22-winx64\share\slovak 被修改  MySQL\mysql-5.7.22-winx64\share\spanish 被修改  MySQL\mysql-5.7.22-winx64\share\swedish 被修改  MySQL\mysql-5.7.22-winx64\share\ukrainian 被修改  
+2018/8/27 20:13:23 MySQL\Navicat Premium 12\instantclient_10_2 被修改  MySQL\Navicat Premium 12\简体中文64位 被修改  ProgramData\{0825CD46-8267-4780-04A1-D9C29EE3520C} 被修改  ProgramData\Adobe 被修改  
+2018/8/27 20:13:24 ProgramData\Adobe\SLStore 被修改  ProgramData\Application Data 被修改  ProgramData\Application Data\Tencent 被修改  ProgramData\Application Data\Tencent\QQPCMgr 被修改  ProgramData\Application Data\Tencent\SoftMgr 被修改  ProgramData\Comms 被修改  
+2018/8/27 20:13:24 ProgramData\DeskGo 被修改  ProgramData\DriveTheLife 被修改  ProgramData\DriveTheLife2013 被修改  ProgramData\DtlCalendarNew 被修改  ProgramData\Git 被修改  ProgramData\Huorong 被修改  ProgramData\Huorong\Sysdiag\Autoruns 被修改  ProgramData\Huorong\Sysdiag\Quarantine 被修改  ProgramData\Huorong\Sysdiag\scenter 被修改  ProgramData\Huorong\Sysdiag\Sysclean 被修改  ProgramData\Huorong\Sysdiag\virdb 被修改  ProgramData\Icons 被修改  ProgramData\Icons\download 被修改  ProgramData\Icons\OpenSSL 被修改  ProgramData\IDM 被修改  ProgramData\Intel 被修改  ProgramData\Intel\ExtremeGraphics 被修改  ProgramData\Intel\ExtremeGraphics\CUI 被修改  ProgramData\Intel\ExtremeGraphics\CUI\Resource 被修改  
+2018/8/27 20:13:24 ProgramData\Intel\Intel(R) Update Manager 被修改  ProgramData\Intel\Intel(R) Update Manager\device_profile 被修改  ProgramData\Intel\Intel(R) Update Manager\device_profile\templates 被修改  ProgramData\Intel\Intel(R) Update Manager\updateinfo 被修改  ProgramData\Intel\Intel(R) Update Manager\updateinfo\38f254b6-9d69-4798-99d1-a2af95046fe3 被修改  ProgramData\kingsoft\20170908_230415 被修改  ProgramData\kingsoft\20170908_230415\oeminfo 被修改  ProgramData\kingsoft\20180501_91200 被修改  ProgramData\kingsoft\office6\mtfont 被修改  ProgramData\LockHomePage 被修改  ProgramData\LockHomePage\Config 被修改  ProgramData\Microsoft\AppV\Setup 被修改  ProgramData\Microsoft\AppV 被修改  ProgramData\Microsoft\Crypto\Keys 被修改  ProgramData\Microsoft\Crypto\SystemKeys 被修改  ProgramData\Microsoft\Crypto 被修改  
+2018/8/27 20:13:24 ProgramData\Microsoft\Crypto\DSS 被修改  ProgramData\Microsoft\Crypto\DSS\MachineKeys 被修改  ProgramData\Microsoft\Crypto\PCPKSP\WindowsAIK 被修改  ProgramData\Microsoft\Crypto\PCPKSP 被修改  
+2018/8/27 20:13:26 Program Files (x86)\Microsoft SQL Server 被修改  
+2018/8/27 20:13:26 Program Files (x86)\Microsoft SQL Server\80 被修改  Program Files (x86)\Microsoft SQL Server\80\COM 被修改  Program Files (x86)\Microsoft SQL Server\80\Tools 被修改  Program Files (x86)\Microsoft SQL Server\80\Tools\Binn 被修改  Program Files (x86)\Microsoft SQL Server\90 被修改  Program Files (x86)\Microsoft SQL Server\90\Shared 被修改  
+2018/8/27 20:13:26 未知事件!  
+2018/8/27 20:13:26 Program Files (x86)\Microsoft SQL Server\110\DAC\bin\zh-Hans 被修改  Program Files (x86)\Microsoft SQL Server\110\KeyFile 被修改  Program Files (x86)\Microsoft SQL Server\110\KeyFile\1033 被修改  Program Files (x86)\Microsoft SQL Server\110\KeyFile\2052 被修改  Program Files (x86)\Microsoft SQL Server\110\License Terms 被修改  Program Files (x86)\Microsoft SQL Server\110\LocalDB 被修改  Program Files (x86)\Microsoft SQL Server\110\LocalDB\Binn 被修改  Program Files (x86)\Microsoft SQL Server\110\LocalDB\Binn\Resources 被修改  Program Files (x86)\Microsoft SQL Server\110\LocalDB\Binn\Resources\en-US 被修改  Program Files (x86)\Microsoft SQL Server\110\LocalDB\Binn\Resources\zh-CN 被修改  Program Files (x86)\Microsoft SQL Server\110\SDK 被修改  Program Files (x86)\Microsoft SQL Server\110\SDK\Assemblies 被修改  
+2018/8/27 20:13:26 未知事件!  
+2018/8/27 20:13:26 Program Files (x86)\Microsoft SQL Server\130\SDK 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\de 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\en 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\es 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\fr 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\it 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\ja 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\ko 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\pt 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\ru 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\zh-CHS 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\zh-Hans 被修改  Program Files (x86)\Microsoft SQL Server\130\SDK\Assemblies\zh-Hant 被修改  Program Files (x86)\Microsoft SQL Server\130\Shared 被修改  
+2018/8/27 20:13:27 Program Files (x86)\Application Verifier 被修改  
+2018/8/27 20:13:27 Program Files (x86)\Google 被修改  Program Files (x86)\Mozilla Maintenance Service 被修改  Program Files (x86)\Microsoft.NET 被修改  Program Files (x86)\Microsoft Web Tools 被修改  Program Files (x86)\Microsoft WCF Data Services 被修改  Program Files (x86)\Microsoft Visual Studio 14.0 被修改  
+2018/8/27 20:13:27 Program Files (x86)\Microsoft Visual Studio 12.0 被修改  Program Files (x86)\Microsoft Visual Studio 11.0 被修改  Program Files (x86)\Microsoft Visual Studio 被修改  Program Files (x86)\Microsoft SQL Server Compact Edition 被修改  Program Files (x86)\Microsoft Office 被修改  Program Files (x86)\Microsoft Help Viewer 被修改  Program Files (x86)\Microsoft 被修改  Program Files (x86)\Internet Explorer 被修改  Program Files (x86)\Intel 被修改  
+2018/8/27 20:13:29 Program Files (x86)\Common Files\Merge Modules 被修改  
+2018/8/27 20:13:29 Program Files (x86)\Common Files\system 被修改  Program Files (x86)\Common Files\system\ado 被修改  Program Files (x86)\Common Files\system\ado\en-US 被修改  Program Files (x86)\Common Files\system\ado\zh-CN 被修改  Program Files (x86)\Common Files\system\en-US 被修改  Program Files (x86)\Common Files\system\msadc 被修改  Program Files (x86)\Common Files\system\msadc\en-US 被修改  Program Files (x86)\Common Files\system\msadc\zh-CN 被修改  Program Files (x86)\Common Files\system\ole db 被修改  
+2018/8/27 20:13:29 Program Files (x86)\Common Files\system\ole db\en-US 被修改  Program Files (x86)\Common Files\system\ole db\zh-CN 被修改  Program Files (x86)\Common Files\system\zh-CN 被修改  
+2018/8/27 20:13:30 Program Files (x86)\Common Files\Adobe 被修改  
+2018/8/27 20:13:30 Program Files (x86)\Common Files\Java 被修改  Program Files (x86)\Common Files\VMware 被修改  Program Files (x86)\Common Files\TortoiseOverlays 被修改  Program Files (x86)\Common Files\Thunder Network 被修改  Program Files (x86)\Common Files\ThinPrint 被修改  Program Files (x86)\Common Files\Services 被修改  Program Files (x86)\Common Files\Microsoft 被修改  
+2018/8/27 20:13:30 Program Files (x86)\Common Files\TortoiseOverlays\icons 被修改  
+2018/8/27 20:13:30 Program Files (x86)\Common Files\TortoiseOverlays\icons\XPStyle 被修改  
+2018/8/27 20:13:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:13:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:13:33 Program Files (x86)\Common Files\Thunder Network\bho 被修改  
+2018/8/27 20:13:33 Program Files (x86)\Common Files\Thunder Network\ServiceDlls 被修改  Program Files (x86)\Common Files\Thunder Network\TP 被修改  Program Files (x86)\Common Files\Thunder Network\UserAgent 被修改  Program Files (x86)\Common Files\Thunder Network\xldqvideo 被修改  
+2018/8/27 20:13:35 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\ServiceLoadModule 被修改  
+2018/8/27 20:13:35 Windows\WinSxS\Manifests\x86_policy.9.0.microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9415_none_f47b6862f65971de.manifest 被修改  
+2018/8/27 20:13:35 Windows\WinSxS\Manifests\x86_policy.9.0.microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.4148_none_f0efb442f8a0f46c.manifest 被修改  
+2018/8/27 20:13:35 Windows\WinSxS\Manifests\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.9415_none_508df7e2bcbccb90.manifest 被修改  
+2018/8/27 20:13:35 Windows\WinSxS\Manifests\x86_microsoft.vc90.atl_1fc8b3b9a1e18e3b_9.0.30729.4148_none_51ca66a2bbe76806.manifest 被修改  Program Files (x86)\Common Files\Thunder Network\ServicePlatform\XLBugReport.exe 被修改  
+2018/8/27 20:13:37 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\2017-11-08 18-25-57 被修改  
+2018/8/27 20:13:37 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\ServiceLoadModule 被修改  
+2018/8/27 20:13:52 Windows\Temp 被修改  
+2018/8/27 20:13:52 ProgramData\Huorong\Sysdiag\log.db-wal 被修改  
+2018/8/27 20:13:52 Users\cmh13\AppData\Local\Microsoft\Windows\Safety\shell\remote 被修改  
+2018/8/27 20:13:52 Users\cmh13\AppData\Local\Microsoft\Windows\Safety\shell\remote\script 被修改  
+2018/8/27 20:13:52 Users\cmh13\AppData\Local\Microsoft\Windows\Safety\shell\remote\certificateChain 被修改  
+2018/8/27 20:13:53 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:13:53 ProgramData\Huorong\Sysdiag\scenter\scenter.db 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f1bb7374ba290567.automaticDestinations-ms 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f1bb7374ba290567.automaticDestinations-ms 被修改  ProgramData\Huorong\Sysdiag\log.db-wal 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f1bb7374ba290567.automaticDestinations-ms 被修改  Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f1bb7374ba290567.automaticDestinations-ms 被修改  
+2018/8/27 20:13:53 Program Files (x86)\Common Files\Thunder Network\ServicePlatform 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\stat.xml.lnk 被创建  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\stat.xml.lnk 被修改  Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent 被修改  Windows\Prefetch\NOTEPAD++.EXE-CF597DC7.pf 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Notepad++ 被修改  Users\cmh13\AppData\Roaming\Notepad++\plugins 被修改  Users\cmh13\AppData\Roaming\Notepad++\plugins\config 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\5f7b5f1e01b83767.automaticDestinations-ms 被修改  
+2018/8/27 20:13:53 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\ServicePlatform.lnk 被创建  Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\ServicePlatform.lnk 被修改  Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent 被修改  
+2018/8/27 20:13:54 Windows\System32\dbghelp.dll 被修改  
+2018/8/27 20:13:54 Windows\System32\SensApi.dll 被修改  
+2018/8/27 20:13:54 Users\cmh13\AppData\Roaming\Notepad++\langs.xml 被修改  
+2018/8/27 20:13:54 Users\cmh13\AppData\Roaming\Notepad++\config.xml 被修改  
+2018/8/27 20:13:54 Users\cmh13\AppData\Roaming\Notepad++\stylers.xml 被修改  
+2018/8/27 20:13:54 Users\cmh13\AppData\Roaming\Notepad++\nativeLang.xml 被修改  Users\cmh13\AppData\Roaming\Notepad++\shortcuts.xml 被修改  Users\cmh13\AppData\Roaming\Notepad++\contextMenu.xml 被修改  Users\cmh13\AppData\Roaming\Notepad++\session.xml 被修改  
+2018/8/27 20:13:54 ProgramData\Huorong\Sysdiag\scenter\scenter.db 被修改  
+2018/8/27 20:13:54 ProgramData\Huorong\Sysdiag\scenter\scenter.db 被修改  
+2018/8/27 20:13:54 Program Files (x86)\Notepad++\plugins\APIs 被修改  
+2018/8/27 20:13:54 Windows\Prefetch\NOTEPAD++.EXE-CF597DC7.pf 被修改  
+2018/8/27 20:13:54 Windows\Prefetch\NOTEPAD++.EXE-CF597DC7.pf 被修改  
+2018/8/27 20:13:55 ProgramData\Huorong\Sysdiag\scenter\scenter.db 被修改  
+2018/8/27 20:13:59 Program Files (x86)\Notepad++\plugins\APIs\html.xml 被修改  
+2018/8/27 20:14:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:14:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:14:02 Windows\Prefetch\SMARTSCREEN.EXE-EACC1250.pf 被修改  
+2018/8/27 20:14:02 Windows\Prefetch\SMARTSCREEN.EXE-EACC1250.pf 被修改  
+2018/8/27 20:14:03 ProgramData\Huorong\Sysdiag\log.db-wal 被修改  
+2018/8/27 20:14:03 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms 被修改  
+2018/8/27 20:14:03 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms 被修改  
+2018/8/27 20:14:11 ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm 被修改  
+2018/8/27 20:14:11 ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm 被修改  ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm 被修改  ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm 被修改  
+2018/8/27 20:14:21 ProgramData\Huorong\Sysdiag\log.db-wal 被修改  
+2018/8/27 20:14:21 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms 被修改  
+2018/8/27 20:14:21 Users\cmh13\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms 被修改  
+2018/8/27 20:14:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:14:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:14:38 停止监视...
+2018/8/27 20:20:45 开始监视...2018/8/27 20:20:57 6 - 副本 (6).txt 被删除  
+2018/8/27 20:20:58 6 - 副本 (3).txt 被删除  
+2018/8/27 20:20:59 6 - 副本.txt 被删除  
+2018/8/27 20:21:04 新建文本文档.txt 被创建  
+2018/8/27 20:21:04 新建文本文档.txt 被修改  
+2018/8/27 20:21:06 新建文本文档.txt 被重命名为：1.txt  
+2018/8/27 20:21:10 11\6.txt 被删除  
+2018/8/27 20:21:10 11 被修改  
+2018/8/27 20:21:11 11\8.txt 被删除  
+2018/8/27 20:21:11 11 被修改  
+2018/8/27 20:21:20 1.txt 被重命名为：4.txt  
+2018/8/27 20:21:23 停止监视...
+2018/8/27 20:21:37 开始监视...2018/8/27 20:29:48 开始监视...2018/8/27 20:29:57 11\新建文本文档.txt 被创建  
+2018/8/27 20:29:57 11\新建文本文档.txt 被修改  
+2018/8/27 20:29:57 11 被修改  
+2018/8/27 20:29:59 11\新建文本文档.txt 被重命名为：11\2.txt  
+2018/8/27 20:29:59 11 被修改  
+2018/8/27 20:30:01 11\2 - 副本.txt 被创建  
+2018/8/27 20:30:01 11\2 - 副本.txt 被修改  
+2018/8/27 20:30:01 11 被修改  
+2018/8/27 20:30:02 11\2 - 副本 (2).txt 被创建  
+2018/8/27 20:30:02 11\2 - 副本 (2).txt 被修改  
+2018/8/27 20:30:02 11 被修改  
+2018/8/27 20:30:07 11\2 - 副本.txt 被删除  
+2018/8/27 20:30:07 11 被修改  
+2018/8/27 20:30:11 11\2 - 副本 (2).txt 被重命名为：11\1.txt  
+2018/8/27 20:30:11 11 被修改  
+2018/8/27 20:30:17 停止监视...
+2018/8/27 20:38:04 开始监视...2018/8/27 20:38:09 $RECYCLE.BIN 被修改  
+2018/8/27 20:38:09 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\desktop.ini 被修改  
+2018/8/27 20:38:14 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本.txt 被创建  
+2018/8/27 20:38:14 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本.txt 被修改  
+2018/8/27 20:38:14 桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:15 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (2).txt 被创建  
+2018/8/27 20:38:15 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (2).txt 被修改  
+2018/8/27 20:38:16 桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:16 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (3).txt 被创建  
+2018/8/27 20:38:16 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (3).txt 被修改  桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:17 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (4).txt 被创建  
+2018/8/27 20:38:17 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (4).txt 被修改  桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:19 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ITWK2UO.txt 被创建  
+2018/8/27 20:38:19 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ITWK2UO.txt 被修改  桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (4).txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RTWK2UO.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RTWK2UO.txt 被修改  桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IU8I9NU.txt 被创建  
+2018/8/27 20:38:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IU8I9NU.txt 被修改  桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (3).txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RU8I9NU.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RU8I9NU.txt 被修改  桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:31 桌面备份\新建文件夹 - 副本 (2)\11\2 - 副本 (2).txt 被重命名为：桌面备份\新建文件夹 - 副本 (2)\11\3.txt  
+2018/8/27 20:38:31 桌面备份\新建文件夹 - 副本 (2)\11 被修改  
+2018/8/27 20:38:38 停止监视...
+2018/8/27 20:41:01 开始监视...2018/8/27 20:41:06 11\2 - 副本.txt 被删除  
+2018/8/27 20:41:06 11 被修改  
+2018/8/27 20:41:10 11\3 - 副本.txt 被创建  
+2018/8/27 20:41:10 11\3 - 副本.txt 被修改  
+2018/8/27 20:41:10 11 被修改  
+2018/8/27 20:41:15 11\3 - 副本.txt 被重命名为：11\4.txt  
+2018/8/27 20:41:15 11 被修改  
+2018/8/27 20:41:18 停止监视...
+2018/8/27 20:42:36 开始监视...2018/8/27 20:42:37 停止监视...
+2018/8/27 20:42:57 开始监视...2018/8/27 20:43:15 6-副本-副本-副本-副本.txt 被重命名为：7.txt  
+2018/8/27 20:43:17 6-副本.txt 被删除  
+2018/8/27 20:43:21 6 - 副本.txt 被创建  
+2018/8/27 20:43:21 6 - 副本.txt 被修改  
+2018/8/27 20:43:28 6 - 副本.txt 被重命名为：4.txt  
+2018/8/27 20:43:31 新建文本文档.txt 被创建  
+2018/8/27 20:43:31 新建文本文档.txt 被修改  
+2018/8/27 20:43:33 新建文本文档.txt 被重命名为：8.txt  
+2018/8/27 20:43:36 停止监视...
+2018/8/27 20:45:01 开始监视...2018/8/27 20:45:15 6-副本-副本.txt 被重命名为：1.txt  
+2018/8/27 20:45:18 新建文本文档.txt 被创建  
+2018/8/27 20:45:18 新建文本文档.txt 被修改  
+2018/8/27 20:45:20 新建文本文档.txt 被重命名为：2.txt  
+2018/8/27 20:45:22 2 - 副本.txt 被创建  
+2018/8/27 20:45:22 2 - 副本.txt 被修改  
+2018/8/27 20:45:24 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I7IUOEW.txt 被创建  
+2018/8/27 20:45:24 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I7IUOEW.txt 被修改  2 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R7IUOEW.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R7IUOEW.txt 被修改  
+2018/8/27 20:45:29 停止监视...
+2018/8/27 20:47:11 开始监视...2018/8/27 20:47:24 $GetCurrent 被修改  
+2018/8/27 20:47:24 $Recycle.Bin\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  
+2018/8/27 20:47:24 $Recycle.Bin\S-1-5-21-2526975744-2416300484-2310797866-1001\desktop.ini 被修改  
+2018/8/27 20:47:29 $GetCurrent\Logs 被修改  
+2018/8/27 20:47:29 $GetCurrent\SafeOS 被修改  
+2018/8/27 20:47:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:47:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:47:32 ProgramData\Oracle 被修改  
+2018/8/27 20:47:32 ProgramData\NVIDIA 被修改  ProgramData\Microsoft Visual Studio 被修改  ProgramData\Microsoft OneDrive 被修改  
+2018/8/27 20:47:36 ProgramData\regid.1991-06.com.microsoft 被修改  
+2018/8/27 20:47:37 ProgramData\Thunder Network 被修改  
+2018/8/27 20:47:37 ProgramData\Thunder Network\DownloadLib 被修改  ProgramData\Thunder Network\XLLiveUD 被修改  ProgramData\Thunder Network\XLLiveUD\Download 被修改  ProgramData\Thunder Network\XLLiveUD\Download\71698B659DF0CD8BEFD37E4638DE440E 被修改  
+2018/8/27 20:47:38 ProgramData\Packages 被修改  
+2018/8/27 20:47:38 ProgramData\Package Cache 被修改  
+2018/8/27 20:47:39 ProgramData\pdfconverter 被修改  
+2018/8/27 20:47:39 ProgramData\SoftwareDistribution 被修改  ProgramData\tempicon 被修改  ProgramData\PreEmptive Solutions 被修改  ProgramData\QMStart 被修改  ProgramData\regid.1986-12.com.adobe 被修改  ProgramData\Tencent 被修改  ProgramData\TXQMPC 被修改  ProgramData\VisualSVN Server 被修改  ProgramData\VideoCopilot 被修改  ProgramData\Windows App Certification Kit 被修改  ProgramData\WindowsHolographicDevices 被修改  ProgramData\VMware 被修改  ProgramData\USOPrivate 被修改  
+2018/8/27 20:47:39 ProgramData\USOShared 被修改  ProgramData\VanDyke 被修改  
+2018/8/27 20:47:43 停止监视...
+2018/8/27 20:47:49 开始监视...2018/8/27 20:47:57 Users\cmh13\ntuser.dat.LOG2 被修改  
+2018/8/27 20:48:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:48:00 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 20:50:51 开始监视...2018/8/27 20:51:03 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I6OVO9V.txt 被创建  
+2018/8/27 20:51:03 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I6OVO9V.txt 被修改  2.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R6OVO9V.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R6OVO9V.txt 被修改  
+2018/8/27 20:51:05 新建文本文档.txt 被创建  
+2018/8/27 20:51:05 新建文本文档.txt 被修改  
+2018/8/27 20:51:07 新建文本文档.txt 被重命名为：2.txt  
+2018/8/27 20:51:07 2.txt 被修改  
+2018/8/27 20:51:10 2 - 副本.txt 被创建  
+2018/8/27 20:51:10 2 - 副本.txt 被修改  
+2018/8/27 20:51:14 2 - 副本.txt 被重命名为：3.txt  
+2018/8/27 20:51:18 停止监视...
+2018/8/27 20:51:20 开始监视...2018/8/27 20:53:39 开始监视...2018/8/27 20:53:44 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IOUA175.txt 被创建  
+2018/8/27 20:53:44 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IOUA175.txt 被修改  3.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ROUA175.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ROUA175.txt 被修改  
+2018/8/27 20:53:46 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IS40AF9.txt 被创建  
+2018/8/27 20:53:46 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IS40AF9.txt 被修改  2.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RS40AF9.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RS40AF9.txt 被修改  
+2018/8/27 20:53:50 1 - 副本.txt 被创建  
+2018/8/27 20:53:50 1 - 副本.txt 被修改  
+2018/8/27 20:53:54 1 - 副本.txt 被重命名为：2.txt  
+2018/8/27 20:53:54 2.txt 被修改  
+2018/8/27 20:54:05 停止监视...
+2018/8/27 20:54:11 开始监视...2018/8/27 20:54:58 开始监视...2018/8/27 20:55:03 2 - 副本.txt 被创建  
+2018/8/27 20:55:03 2 - 副本.txt 被修改  
+2018/8/27 20:55:07 2 - 副本.txt 被重命名为：3.txt  
+2018/8/27 20:55:09 3 - 副本.txt 被创建  
+2018/8/27 20:55:09 3 - 副本.txt 被修改  
+2018/8/27 20:55:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IZBCMB1.txt 被创建  
+2018/8/27 20:55:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IZBCMB1.txt 被修改  3 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RZBCMB1.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RZBCMB1.txt 被修改  
+2018/8/27 20:55:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I2WA6UC 被修改  
+2018/8/27 20:55:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I01UVJN.txt 被修改  
+2018/8/27 20:55:20 停止监视...
+2018/8/27 20:55:26 开始监视...2018/8/27 20:55:49 3 - 副本.txt 被创建   被创建  
+2018/8/27 20:55:49 3 - 副本.txt 被创建   被创建  
+2018/8/27 20:55:49 
+2018/8/27 20:55:56 3 - 副本.txt未知事件!   被重命名为：4.txt  
+2018/8/27 20:55:56 3 - 副本.txt未知事件!   被重命名为：4.txt  
+2018/8/27 20:56:00 停止监视...
+2018/8/27 20:56:01 开始监视...2018/8/27 20:56:09 停止监视...
+2018/8/27 20:57:24 开始监视...2018/8/27 20:57:49 4 - 副本.txt 被创建  
+2018/8/27 20:57:49 4 - 副本.txt 被修改  
+2018/8/27 20:57:53 4 - 副本.txt 被重命名为：5.txt  
+2018/8/27 20:57:54 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IST2QQJ.txt 被创建  
+2018/8/27 20:57:54 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IST2QQJ.txt 被修改  5.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RST2QQJ.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RST2QQJ.txt 被修改  
+2018/8/27 20:57:57 停止监视...
+2018/8/27 20:58:12 开始监视...2018/8/27 21:01:19 开始监视...2018/8/27 21:01:28 4 - 副本.txt 被创建  
+2018/8/27 21:01:28 4 - 副本.txt 被修改  
+2018/8/27 21:01:35 4 - 副本.txt 被重命名为：5.txt  
+2018/8/27 21:01:39 5.txt 被删除  
+2018/8/27 21:01:39 桌面备份\5.txt 被创建  桌面备份 被修改  
+2018/8/27 21:01:41 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IJ3VAJX.txt 被创建  
+2018/8/27 21:01:41 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IJ3VAJX.txt 被修改  4.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RJ3VAJX.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RJ3VAJX.txt 被修改  
+2018/8/27 21:01:46 停止监视...
+2018/8/27 21:08:03 开始监视...2018/8/27 21:08:07 3 - 副本.txt 被创建  
+2018/8/27 21:08:07 3 - 副本.txt 被修改  
+2018/8/27 21:08:11 3 - 副本.txt 被重命名为：4.txt  
+2018/8/27 21:08:17 4.txt 被删除  
+2018/8/27 21:08:17 桌面备份\4.txt 被创建  桌面备份 被修改  
+2018/8/27 21:08:21 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IRMLV4Q.txt 被创建  
+2018/8/27 21:08:21 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IRMLV4Q.txt 被修改  桌面备份\4.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RRMLV4Q.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RRMLV4Q.txt 被修改  
+2018/8/27 21:08:21 桌面备份 被修改  
+2018/8/27 21:08:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IG5U42Q.txt 被创建  
+2018/8/27 21:08:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IG5U42Q.txt 被修改  桌面备份\5.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RG5U42Q.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RG5U42Q.txt 被修改  桌面备份 被修改  
+2018/8/27 21:08:25 停止监视...
+2018/8/27 21:12:07 开始监视...2018/8/27 21:12:18 3 - 副本.txt 被创建  
+2018/8/27 21:12:18 3 - 副本.txt 被修改  
+2018/8/27 21:12:23 3 - 副本.txt 被重命名为：4.txt  
+2018/8/27 21:12:31 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I0FPK4R.txt 被创建  
+2018/8/27 21:12:31 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I0FPK4R.txt 被修改  4.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R0FPK4R.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R0FPK4R.txt 被修改  
+2018/8/27 21:12:34 3.txt 被删除  
+2018/8/27 21:12:34 桌面备份\3.txt 被创建  桌面备份 被修改  
+2018/8/27 21:12:37 停止监视...
+2018/8/27 21:12:45 开始监视...2018/8/27 21:13:05 2 - 副本.txt 被创建  
+2018/8/27 21:13:05 2 - 副本.txt 被修改  
+2018/8/27 21:13:08 2 - 副本.txt 被重命名为：3.txt  
+2018/8/27 21:13:11 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IKGRGLD.txt 被创建  
+2018/8/27 21:13:11 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IKGRGLD.txt 被修改  3.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RKGRGLD.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RKGRGLD.txt 被修改  
+2018/8/27 21:13:15 2.txt 被删除  
+2018/8/27 21:13:15 桌面备份\2.txt 被创建  桌面备份 被修改  
+2018/8/27 21:13:19 停止监视...
+2018/8/27 21:16:18 开始监视...2018/8/27 21:16:24 1 - 副本.txt 被创建  
+2018/8/27 21:16:24 1 - 副本.txt 被修改  
+2018/8/27 21:16:25 1 - 副本 (2).txt 被创建  
+2018/8/27 21:16:25 1 - 副本 (2).txt 被修改  
+2018/8/27 21:16:26 1 - 副本 (3).txt 被创建  
+2018/8/27 21:16:26 1 - 副本 (3).txt 被修改  
+2018/8/27 21:16:31 1 - 副本 (3).txt 被重命名为：4.txt  
+2018/8/27 21:16:34 1 - 副本 (2).txt 被重命名为：3.txt  
+2018/8/27 21:16:37 1 - 副本.txt 被重命名为：2.txt  
+2018/8/27 21:16:42 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IR5NNYL.txt 被创建  
+2018/8/27 21:16:42 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IR5NNYL.txt 被修改  4.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RR5NNYL.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  
+2018/8/27 21:16:42 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RR5NNYL.txt 被修改  
+2018/8/27 21:16:52 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IO9HDLP.txt 被创建  
+2018/8/27 21:16:52 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IO9HDLP.txt 被修改  桌面备份\3.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RO9HDLP.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RO9HDLP.txt 被修改  桌面备份 被修改  
+2018/8/27 21:16:54 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I9688TJ.txt 被创建  
+2018/8/27 21:16:54 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I9688TJ.txt 被修改  桌面备份\2.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R9688TJ.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R9688TJ.txt 被修改  桌面备份 被修改  
+2018/8/27 21:16:58 停止监视...
+2018/8/27 21:25:01 开始监视...2018/8/27 21:25:06 3 - 副本.txt 被创建  
+2018/8/27 21:25:06 3 - 副本.txt 被修改  
+2018/8/27 21:25:08 3 - 副本 (2).txt 被创建  
+2018/8/27 21:25:08 3 - 副本 (2).txt 被修改  
+2018/8/27 21:25:11 3 - 副本 (2).txt 被重命名为：4.txt  
+2018/8/27 21:25:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ICS58FI.txt 被创建  
+2018/8/27 21:25:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ICS58FI.txt 被修改  3 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RCS58FI.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  
+2018/8/27 21:25:16 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RCS58FI.txt 被修改  
+2018/8/27 21:25:19 4.txt 被删除  
+2018/8/27 21:25:19 桌面备份\4.txt 被创建  桌面备份 被修改  
+2018/8/27 21:25:22 停止监视...
+2018/8/27 21:27:38 开始监视...2018/8/27 21:27:48 3 - 副本.txt 被创建  
+2018/8/27 21:27:48 3 - 副本.txt 被修改  
+2018/8/27 21:27:49 3 - 副本 (2).txt 被创建  
+2018/8/27 21:27:49 3 - 副本 (2).txt 被修改  
+2018/8/27 21:27:50 3 - 副本 (3).txt 被创建  
+2018/8/27 21:27:50 3 - 副本 (3).txt 被修改  
+2018/8/27 21:27:51 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IJ4DFPQ.txt 被创建  
+2018/8/27 21:27:51 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IJ4DFPQ.txt 被修改  3 - 副本 (3).txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RJ4DFPQ.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RJ4DFPQ.txt 被修改  
+2018/8/27 21:27:56 3 - 副本 (2).txt 被重命名为：5.txt  
+2018/8/27 21:28:00 3 - 副本.txt 被重命名为：4.txt  
+2018/8/27 21:28:07 桌面备份\4.txt 被删除  
+2018/8/27 21:28:07 4.txt 被删除  桌面备份\4.txt 被创建  桌面备份 被修改  
+2018/8/27 21:28:10 停止监视...
+2018/8/27 21:28:18 开始监视...2018/8/27 21:28:23 Windows\System32 被修改  
+2018/8/27 21:28:23 Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.228_none_fb4599993062b194 被修改  
+2018/8/27 21:28:23 Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.17134.228_none_2c308c7e8af52b62 被修改  
+2018/8/27 21:28:23 Windows\System32\DriverStore\FileRepository\nvacwu.inf_amd64_bdd6ea477d4e2fba 被修改  Program Files\NVIDIA Corporation\coprocmanager 被修改  
+2018/8/27 21:28:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 21:28:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 21:28:33 Users\cmh13\AppData\Local\Temp 被修改  
+2018/8/27 21:28:33 ProgramData\Microsoft\Diagnosis\EventStore.db-wal 被修改  
+2018/8/27 21:28:41 停止监视...
+2018/8/27 21:29:06 开始监视...2018/8/27 21:29:15 5 - 副本.txt 被创建  
+2018/8/27 21:29:15 5 - 副本.txt 被修改  
+2018/8/27 21:29:19 5 - 副本.txt 被重命名为：4.txt  
+2018/8/27 21:29:21 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IZBSPKX.txt 被创建  
+2018/8/27 21:29:21 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IZBSPKX.txt 被修改  5.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RZBSPKX.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RZBSPKX.txt 被修改  
+2018/8/27 21:29:24 停止监视...
+2018/8/27 21:29:45 开始监视...2018/8/27 21:29:49 手机内容\Photo 被修改  
+2018/8/27 21:29:49 书籍\201714053陈铭海第1次课笔记 被修改  
+2018/8/27 21:29:49 书籍\ACM 被修改  书籍\ACM\20162180198陈铭海 被修改  书籍\ACM\20162180198陈铭海\1前言 被修改  书籍\ACM\20162180198陈铭海\2输入输出组织 被修改  书籍\ACM\20162180198陈铭海\3数组 被修改  书籍\ACM\20162180198陈铭海\4递归 被修改  书籍\ACM\20162180198陈铭海\5栈与队列 被修改  书籍\ACM\20162180198陈铭海\6动态规划 被修改  
+2018/8/27 21:29:49 书籍\ACM\ACM-大三下 被修改  书籍\ACM\打印 被修改  书籍\ACM\推荐打印 被修改  书籍\Android第一行代码源码 被修改  书籍\Android第一行代码源码\第1章 被修改  书籍\Android第一行代码源码\第1章\HelloWorld 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\.settings 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\assets 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\bin 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\bin\classes 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\bin\classes\com 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\bin\classes\com\test 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\bin\classes\com\test\helloworld 被修改  书籍\Android第一行代码源码\第1章\HelloWorld\bin\dexedLibs 被修改  
+2018/8/27 21:29:49 未知事件!  
+2018/8/27 21:29:49 未知事件!  
+2018/8/27 21:29:49 未知事件!  
+2018/8/27 21:29:49 未知事件!  
+2018/8/27 21:29:49 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 书籍\Android第一行代码源码\第14章\CoolWeather\.git\objects\89 被修改  书籍\Android第一行代码源码\第14章\CoolWeather\.git\objects\90 被修改  书籍\Android第一行代码源码\第14章\CoolWeather\.git\objects\91 被修改  书籍\Android第一行代码源码\第14章\CoolWeather\.git\objects\92 被修改  书籍\Android第一行代码源码\第14章\CoolWeather\.git\objects\93 被修改  书籍\Android第一行代码源码\第14章\CoolWeather\.git\objects\95 被修改  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 未知事件!  
+2018/8/27 21:29:50 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\a\device 被修改  
+2018/8/27 21:29:50 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\a\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\a\lib 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\a\lib\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\a\lib\user 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\boot 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\boot\include 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\build 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\device 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\lib 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\lib\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\b\lib\user 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\boot 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\boot\include 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\build 被修改  
+2018/8/27 21:29:50 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\device 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\lib 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\lib\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\c\lib\user 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\boot 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\boot\include 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\build 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\device 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\lib 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\lib\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\d\lib\user 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\e 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\e\boot 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\e\boot\include 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c8\e\build 被修改  
+2018/8/27 21:29:51 未知事件!  
+2018/8/27 21:29:51 未知事件!  
+2018/8/27 21:29:51 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c11\b 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c11\b\boot 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c11\b\boot\include 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c11\b\build 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c11\b\device 被修改  
+2018/8/27 21:29:51 未知事件!  
+2018/8/27 21:29:51 未知事件!  
+2018/8/27 21:29:51 未知事件!  
+2018/8/27 21:29:51 未知事件!  
+2018/8/27 21:29:51 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\device 被修改  
+2018/8/27 21:29:51 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\fs 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\lib 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\lib\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\lib\user 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\thread 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\m\userprog 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\boot 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\boot\include 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\build 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\device 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\fs 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\lib 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\lib\kernel 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\lib\user 被修改  书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\thread 被修改  
+2018/8/27 21:29:52 书籍\操作系统真象还原 553086\操作系统真象还原-附书代码\code\c14\n\userprog 被修改  
+2018/8/27 21:29:57 停止监视...
+2018/8/27 21:33:11 开始监视...2018/8/27 21:33:18 4 - 副本.txt 被创建  
+2018/8/27 21:33:18 4 - 副本.txt 被修改  
+2018/8/27 21:33:20 4 - 副本 (2).txt 被创建  
+2018/8/27 21:33:20 4 - 副本 (2).txt 被修改  
+2018/8/27 21:33:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IEX7LV7.txt 被创建  
+2018/8/27 21:33:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IEX7LV7.txt 被修改  4 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$REX7LV7.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  
+2018/8/27 21:33:23 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$REX7LV7.txt 被修改  
+2018/8/27 21:33:26 4 - 副本 (2).txt 被重命名为：5.txt  
+2018/8/27 21:33:28 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IW9M7V3.txt 被创建  
+2018/8/27 21:33:28 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IW9M7V3.txt 被修改  4.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RW9M7V3.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RW9M7V3.txt 被修改  
+2018/8/27 21:33:30 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IERZN3E.txt 被创建  
+2018/8/27 21:33:30 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IERZN3E.txt 被修改  5.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RERZN3E.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RERZN3E.txt 被修改  
+2018/8/27 21:33:31 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IWRLQYD.txt 被创建  
+2018/8/27 21:33:31 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IWRLQYD.txt 被修改  3.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RWRLQYD.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RWRLQYD.txt 被修改  
+2018/8/27 21:33:39 桌面备份\4.txt 被删除  
+2018/8/27 21:33:39 4.txt 被创建  4.txt 被修改  桌面备份 被修改  
+2018/8/27 21:33:43 停止监视...
+2018/8/27 21:33:48 开始监视...2018/8/27 21:33:53 4 - 副本.txt 被创建  
+2018/8/27 21:33:53 4 - 副本.txt 被修改  
+2018/8/27 21:33:57 4 - 副本.txt 被重命名为：3.txt  
+2018/8/27 21:34:02 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IIAKKYJ.txt 被创建  
+2018/8/27 21:34:02 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IIAKKYJ.txt 被修改  4.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RIAKKYJ.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RIAKKYJ.txt 被修改  
+2018/8/27 21:34:05 停止监视...
+2018/8/27 21:34:42 开始监视...2018/8/27 21:34:55 停止监视...
+2018/8/27 21:35:01 开始监视...2018/8/27 21:35:06 Windows\System32\OnDemandConnRouteHelper.dll 被修改  
+2018/8/27 21:35:08 Users\cmh13\ntuser.dat.LOG2 被修改  
+2018/8/27 21:35:18 停止监视...
+2018/8/27 21:36:23 开始监视...2018/8/27 21:36:28 3 - 副本.txt 被创建  
+2018/8/27 21:36:28 3 - 副本.txt 被修改  
+2018/8/27 21:36:31 3 - 副本.txt 被重命名为：4.txt  
+2018/8/27 21:36:34 4 - 副本.txt 被创建  
+2018/8/27 21:36:34 4 - 副本.txt 被修改  
+2018/8/27 21:36:34 4 - 副本 (2).txt 被创建  
+2018/8/27 21:36:34 4 - 副本 (2).txt 被修改  
+2018/8/27 21:36:37 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IJJNGX5.txt 被创建  
+2018/8/27 21:36:37 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IJJNGX5.txt 被修改  4 - 副本 (2).txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RJJNGX5.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RJJNGX5.txt 被修改  
+2018/8/27 21:36:39 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I06PO4K.txt 被创建  
+2018/8/27 21:36:39 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I06PO4K.txt 被修改  4 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R06PO4K.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R06PO4K.txt 被修改  
+2018/8/27 21:36:43 停止监视...
+2018/8/27 21:36:56 开始监视...2018/8/27 21:37:02 3 - 副本.txt 被创建  
+2018/8/27 21:37:02 3 - 副本.txt 被修改  
+2018/8/27 21:37:05 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ITVQMP9.txt 被创建  
+2018/8/27 21:37:05 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$ITVQMP9.txt 被修改  3 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RTVQMP9.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RTVQMP9.txt 被修改  
+2018/8/27 21:37:07 停止监视...
+2018/8/27 21:37:30 开始监视...2018/8/27 21:37:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 21:37:30 Program Files (x86)\Common Files\Thunder Network\ServicePlatform\stat.xml 被修改  
+2018/8/27 21:37:42 Windows\System32\config\BBI.LOG2 被修改  
+2018/8/27 21:37:49 停止监视...
+2018/8/27 21:40:25 开始监视...2018/8/27 21:40:51 $RECYCLE.BIN 被修改  
+2018/8/27 21:40:51 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\desktop.ini 被修改  
+2018/8/27 21:40:54 4 - 副本.txt 被创建  
+2018/8/27 21:40:55 4 - 副本.txt 被修改  
+2018/8/27 21:40:55 4 - 副本 (2).txt 被创建  
+2018/8/27 21:40:55 4 - 副本 (2).txt 被修改  
+2018/8/27 21:40:59 4 - 副本 (2).txt 被重命名为：5.txt  
+2018/8/27 21:41:00 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I0WJG6Q.txt 被创建  
+2018/8/27 21:41:00 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I0WJG6Q.txt 被修改  4 - 副本.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R0WJG6Q.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  
+2018/8/27 21:41:00 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R0WJG6Q.txt 被修改  
+2018/8/27 21:41:04 停止监视...
+2018/8/27 21:41:12 开始监视...2018/8/27 21:41:20 5 - 副本.txt 被创建  
+2018/8/27 21:41:20 5 - 副本.txt 被修改  
+2018/8/27 21:41:26 5 - 副本.txt 被重命名为：6.txt  
+2018/8/27 21:41:34 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IKZ5213.txt 被创建  
+2018/8/27 21:41:34 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IKZ5213.txt 被修改  6.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RKZ5213.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RKZ5213.txt 被修改  
+2018/8/27 21:41:38 停止监视...
+2018/8/27 21:42:08 开始监视...2018/8/27 21:42:10 重装操作系统工具\操作系统镜像 被修改  
+2018/8/27 21:42:10 重装操作系统工具\系统激活密钥、激活码 被修改  
+2018/8/27 21:42:19 停止监视...
+2018/8/27 21:44:14 开始监视...2018/8/27 21:44:17 桌面备份\新建文件夹 - 副本 (2) 被修改  
+2018/8/27 21:44:24 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IWXND84.txt 被创建  
+2018/8/27 21:44:24 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IWXND84.txt 被修改  5.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RWXND84.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  
+2018/8/27 21:44:24 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RWXND84.txt 被修改  
+2018/8/27 21:44:26 4 - 副本.txt 被创建  
+2018/8/27 21:44:26 4 - 副本.txt 被修改  
+2018/8/27 21:44:29 4 - 副本.txt 被重命名为：5.txt  
+2018/8/27 21:44:29 5.txt 被修改  
+2018/8/27 21:44:40 1.txt 被删除  
+2018/8/27 21:44:40 桌面备份\1.txt 被创建  桌面备份 被修改  
+2018/8/27 21:44:42 停止监视...
+2018/8/27 21:44:51 开始监视...2018/8/27 21:45:13 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IPXKQVJ.txt 被创建  
+2018/8/27 21:45:13 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$IPXKQVJ.txt 被修改  5.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RPXKQVJ.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$RPXKQVJ.txt 被修改  
+2018/8/27 21:45:17 4.txt 被重命名为：1.txt  
+2018/8/27 21:45:20 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I353HEC.txt 被创建  
+2018/8/27 21:45:20 $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$I353HEC.txt 被修改  桌面备份\1.txt 被删除  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R353HEC.txt 被创建  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001 被修改  $RECYCLE.BIN\S-1-5-21-2526975744-2416300484-2310797866-1001\$R353HEC.txt 被修改  桌面备份 被修改  
+2018/8/27 21:45:25 停止监视...
+2018/8/27 23:06:17 开始监视...

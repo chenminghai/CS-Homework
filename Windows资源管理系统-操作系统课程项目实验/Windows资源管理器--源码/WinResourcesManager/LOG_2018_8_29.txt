@@ -1,0 +1,74 @@
+2018/8/29 10:10:25 开始监视...2018/8/29 10:10:56 4.txt 被创建  
+2018/8/29 10:11:01 java学习路线图\Java学习路线 被修改  
+2018/8/29 10:11:01 java学习路线图\Java学习内容 被修改  
+2018/8/29 10:11:01 java学习路线图\python 被修改  新建文件夹 - 副本 (2)\11 被修改  
+2018/8/29 10:11:01 学习笔记\Java EE轻量级框架应用与开发--S2SH-Code 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\.settings 被修改  
+2018/8/29 10:11:01 学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\build 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\build\classes 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\build\classes\com 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\build\classes\com\qst 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\build\classes\com\qst\chapter02 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\build\classes\com\qst\chapter02\action 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\src 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\src\com 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\src\com\qst 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\src\com\qst\chapter02 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\src\com\qst\chapter02\action 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\WebContent 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\WebContent\META-INF 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\WebContent\WEB-INF 被修改  
+2018/8/29 10:11:01 学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter02\WebContent\WEB-INF\lib 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\.settings 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\build 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\build\classes 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\build\classes\com 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\build\classes\com\qst 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\build\classes\com\qst\chapter03 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\build\classes\com\qst\chapter03\action 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\src 被修改  学习笔记\Java EE轻量级框架应用与开发--S2SH-Code\chapter03\src\com 被修改  
+2018/8/29 10:11:01 未知事件!  
+2018/8/29 10:11:01 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\.settings 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\build 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\build\classes 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\build\classes\com 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\build\classes\com\qst 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\build\classes\com\qst\chapter07 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\build\classes\com\qst\chapter07\javabean 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\src 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\src\com 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\src\com\qst 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\src\com\qst\chapter07 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\src\com\qst\chapter07\javabean 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\WebContent 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\WebContent\META-INF 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\WebContent\WEB-INF 被修改  学习笔记\JavaWeb技术与应用Code\01_实例代码\chapter07\WebContent\WEB-INF\lib 被修改  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\JavaWeb技术及应用—教材项目素材\JavaWeb技术及应用教材贯穿项目素材\images 被修改  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\JavaWeb技术及应用—教材项目素材\JavaWeb技术及应用教材贯穿项目素材\js 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\JavaWeb技术及应用—教材项目素材\JavaWeb技术及应用教材贯穿项目素材\recruit 被修改  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter04\src\com\qst\itoffer\servlet 被修改  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter05\src\com\qst\itoffer\dao 被修改  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter05\src\com\qst\itoffer\servlet 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter05\src\com\qst\itoffer\util 被修改  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 未知事件!  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\css 被修改  
+2018/8/29 10:11:02 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\js 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\META-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\recruit 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\recruit\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\WEB-INF 被修改  
+2018/8/29 10:11:03 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter08\WebContent\WEB-INF\lib 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\.settings 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build\classes 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build\classes\com 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build\classes\com\qst 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build\classes\com\qst\itoffer 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build\classes\com\qst\itoffer\bean 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\build\classes\com\qst\itoffer\dao 被修改  
+2018/8/29 10:11:03 未知事件!  
+2018/8/29 10:11:03 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\css 被修改  
+2018/8/29 10:11:03 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\js 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\META-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\recruit 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\recruit\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\WEB-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter09\WebContent\WEB-INF\lib 被修改  
+2018/8/29 10:11:03 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter10 被修改  
+2018/8/29 10:11:03 未知事件!  
+2018/8/29 10:11:03 未知事件!  
+2018/8/29 10:11:03 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\css 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\js 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\META-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\recruit 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\recruit\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\WEB-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter11\WebContent\WEB-INF\lib 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\.settings 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\build 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\build\classes 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\build\classes\com 被修改  
+2018/8/29 10:11:03 未知事件!  
+2018/8/29 10:11:03 学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\js 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\META-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\recruit 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\recruit\images 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\WEB-INF 被修改  学习笔记\JavaWeb技术与应用Code\02_贯穿项目代码\Q_ITOffer_Chapter12\WebContent\WEB-INF\lib 被修改  学习笔记\JavaWeb技术与应用-ppt 被修改  学习笔记\JDBC&MySQL 被修改  学习笔记\JDBC&MySQL\MySQL笔记图 被修改  学习笔记\Python 被修改  学习笔记\Python\game 被修改  学习笔记\Python\game\__pycache__ 被修改  学习笔记\Python\game\images 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter01 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter01\images 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter02 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter03 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter04 被修改  学习笔记\web前端设计与开发Code\chapter04\css 被修改  学习笔记\web前端设计与开发Code\chapter04\font 被修改  学习笔记\web前端设计与开发Code\chapter04\images 被修改  学习笔记\web前端设计与开发Code\chapter05 被修改  学习笔记\web前端设计与开发Code\chapter05\css 被修改  学习笔记\web前端设计与开发Code\chapter05\images 被修改  学习笔记\web前端设计与开发Code\chapter06 被修改  学习笔记\web前端设计与开发Code\chapter06\images 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter06\images\face1 被修改  学习笔记\web前端设计与开发Code\chapter06\images\face2 被修改  学习笔记\web前端设计与开发Code\chapter06\js 被修改  学习笔记\web前端设计与开发Code\chapter07 被修改  学习笔记\web前端设计与开发Code\chapter07\images 被修改  学习笔记\web前端设计与开发Code\chapter07\js 被修改  学习笔记\web前端设计与开发Code\chapter08 被修改  学习笔记\web前端设计与开发Code\chapter08\images 被修改  学习笔记\web前端设计与开发Code\chapter08\images\bigButton 被修改  学习笔记\web前端设计与开发Code\chapter08\images\card 被修改  学习笔记\web前端设计与开发Code\chapter08\images\coffeeGirl 被修改  学习笔记\web前端设计与开发Code\chapter08\images\person 被修改  学习笔记\web前端设计与开发Code\chapter08\images\空白按钮 被修改  学习笔记\web前端设计与开发Code\chapter09 被修改  学习笔记\web前端设计与开发Code\chapter09\css 被修改  学习笔记\web前端设计与开发Code\chapter09\images 被修改  学习笔记\web前端设计与开发Code\chapter10 被修改  学习笔记\web前端设计与开发Code\chapter10\audio 被修改  
+2018/8/29 10:11:03 学习笔记\web前端设计与开发Code\chapter10\images 被修改  学习笔记\web前端设计与开发Code\chapter10\js 被修改  学习笔记\web前端设计与开发Code\chapter10\video 被修改  学习笔记\web前端设计与开发Code\chapter11 被修改  学习笔记\web前端设计与开发Code\chapter11\images 被修改  学习笔记\web前端设计与开发Code\chapter11\js 被修改  学习笔记\web前端设计与开发Code\chapter12 被修改  学习笔记\web前端设计与开发Code\chapter12\icon 被修改  学习笔记\web前端设计与开发Code\chapter12\images 被修改  学习笔记\web前端设计与开发Code\chapter12\js 被修改  学习笔记\web前端设计与开发Code\chapter12\plugins 被修改  学习笔记\web前端设计与开发Code\chapter12\point 被修改  学习笔记\web前端设计与开发PPT 被修改  
+2018/8/29 10:11:04 学习笔记\前端语言 被修改  学习笔记\前端语言\CSS练习 被修改  学习笔记\前端语言\DOM练习 被修改  学习笔记\前端语言\HTML练习 被修改  学习笔记\前端语言\JavaScript练习 被修改  作业\20162180198陈铭海-操作系统实验 被修改  作业\20162180198陈铭海-操作系统实验\PageScheduling 被修改  作业\20162180198陈铭海-操作系统实验\PageScheduling\Debug 被修改  作业\20162180198陈铭海-操作系统实验\PageScheduling\PageScheduling 被修改  作业\20162180198陈铭海-操作系统实验\PageScheduling\PageScheduling\Debug 被修改  作业\20162180198陈铭海-操作系统实验\PageScheduling\PageScheduling\Debug\PageScheduling.tlog 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\Debug 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ipch 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ipch\processscheduling-4055f22e 被修改  
+2018/8/29 10:11:04 作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ipch\processscheduling-982978e2 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ProcessScheduling 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ProcessScheduling\Debug 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ProcessScheduling\Debug\ProcessS.A86A1432.tlog 被修改  作业\20162180198陈铭海-操作系统实验\ProcessScheduling\ProcessScheduling\res 被修改  作业\20162180198陈铭海-五子棋-初级软件制作 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\.settings 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\bin 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\bin\edu 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\bin\edu\scnu 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\image 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\src 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\src\edu 被修改  作业\20162180198陈铭海-五子棋-初级软件制作\Five\src\edu\scnu 被修改  作业\ACM2 被修改  作业\ACM2\ACM复习 被修改  作业\多媒体作业 被修改  作业\多媒体作业\ps素材 被修改  作业\多媒体作业\ps素材\20162180198陈铭海 被修改  
+2018/8/29 10:11:04 作业\多媒体作业\ps素材\20162180198陈铭海-2 被修改  作业\多媒体作业\ps素材\20162180198陈铭海-3 被修改  作业\多媒体作业\素材--背景音乐 被修改  作业\多媒体作业\素材--视频 被修改  作业\多媒体作业\素材--照片 被修改  作业\汇编实验 被修改  作业\汇编实验\《组成原理实验》备课PPT【2017.10.15】 被修改  作业\汇编实验\《组成原理实验》备课PPT【2017.10.15】\《组成原理实验》备课PPT【2017.10.15】 被修改  作业\汇编实验\《组成原理实验》备课PPT【2017.10.15】\《组成原理实验》备课PPT【2017.10.15】\计算机组成原理实验软件仿真系统【数据】 被修改  
+2018/8/29 10:11:04 作业\汇编实验\计算机组成原理实验软件仿真系统【数据】 被修改  作业\数据库 被修改  作业\数学建模 被修改  作业\数学建模\20162180198陈铭海--数学建模作业 被修改  作业\数学建模\20162180198-陈铭海-数学建模作业2 被修改  作业\数学建模\20162180198陈铭海-数学建模作业3 被修改  作业\数学建模\week2 被修改  作业\数学建模\week2\__MACOSX 被修改  作业\数学建模\week2\__MACOSX\week2 被修改  作业\数学建模\week3 被修改  作业\数学建模\week4 被修改  作业\数学建模\week4\__MACOSX 被修改  作业\数学建模\week5 被修改  作业\数学建模\week6 被修改  作业\数学建模\week7 被修改  作业\数学建模\week8 被修改  作业\数学建模\week8\__MACOSX 被修改  作业\数学建模\week9 被修改  作业\数学建模\week9\__MACOSX 被修改  作业\数学建模\week14 被修改  作业\数学建模\数学建模第三次作业 被修改  
+2018/8/29 10:11:04 作业\数学建模\数学建模第三次作业\assignment3 被修改  作业\数学建模\数学建模第三次作业\assignment3\__MACOSX 被修改  作业\数学建模\数学建模第三次作业\week13 被修改  作业\算法与设计分析 被修改  
+2018/8/29 10:11:15 4.txt 被删除  
+2018/8/29 10:11:38 3 - 副本.txt 被创建  
+2018/8/29 10:11:48 3 - 副本.txt 被重命名为：4.txt  
+2018/8/29 10:11:57 停止监视...
+2018/8/29 10:12:14 开始监视...2018/8/29 10:12:21 4.txt 被重命名为：5.txt  
+2018/8/29 10:12:27 5 - 副本.txt 被创建  
+2018/8/29 10:12:27 5 - 副本.txt 被修改  
+2018/8/29 10:18:10 5 - 副本 - 副本.txt 被创建  
+2018/8/29 10:18:10 5 - 副本 - 副本.txt 被修改  
+2018/8/29 10:18:16 5 - 副本 - 副本 - 副本.txt 被创建  
+2018/8/29 10:18:16 5 - 副本 - 副本 - 副本.txt 被修改  
+2018/8/29 10:18:30 5 - 副本 - 副本 - 副本.txt 被重命名为：6.txt  
+2018/8/29 10:18:33 5 - 副本.txt 被删除  
+2018/8/29 10:18:34 5 - 副本 - 副本.txt 被删除  
+2018/8/29 10:18:36 停止监视...

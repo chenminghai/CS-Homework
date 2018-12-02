@@ -1,0 +1,38 @@
+﻿生成启动时间为 2018/9/8 21:05:40。
+     1>项目“C:\Users\jinmi\Desktop\20162180198-陈铭海--操作系统课程项目实验\Windows资源管理器--源码\WinResourcesManager\WinResourcesManager.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\WinResourcesManager.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /D "_CRT_SECURE_NO_DEPRECATE" stdafx.cpp
+         stdafx.cpp
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\WinResourcesManager.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt /D "_CRT_SECURE_NO_DEPRECATE" DiskMonitor.cpp DiskMonitorTabDlg.cpp MyMFCShellListCtrl.cpp NewFileDlg.cpp ProcessManagerDlg.cpp ProcessTabDlg.cpp QuickSerachDlg.cpp ThreadTabDlg.cpp WinResourcesManager.cpp WinResourcesManagerDlg.cpp
+         WinResourcesManagerDlg.cpp
+         WinResourcesManager.cpp
+         ThreadTabDlg.cpp
+         QuickSerachDlg.cpp
+         ProcessTabDlg.cpp
+         ProcessManagerDlg.cpp
+         NewFileDlg.cpp
+         MyMFCShellListCtrl.cpp
+         DiskMonitorTabDlg.cpp
+         DiskMonitor.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\WinResourcesManager.res" WinResourcesManager.rc 
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\jinmi\Desktop\20162180198-陈铭海--操作系统课程项目实验\Windows资源管理器--源码\Debug\WinResourcesManager.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\jinmi\Desktop\20162180198-陈铭海--操作系统课程项目实验\Windows资源管理器--源码\Debug\WinResourcesManager.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\jinmi\Desktop\20162180198-陈铭海--操作系统课程项目实验\Windows资源管理器--源码\Debug\WinResourcesManager.lib" /MACHINE:X86 Debug\WinResourcesManager.res
+         Debug\DiskMonitor.obj
+         Debug\DiskMonitorTabDlg.obj
+         Debug\MyMFCShellListCtrl.obj
+         Debug\NewFileDlg.obj
+         Debug\ProcessManagerDlg.obj
+         Debug\ProcessTabDlg.obj
+         Debug\QuickSerachDlg.obj
+         Debug\stdafx.obj
+         Debug\ThreadTabDlg.obj
+         Debug\WinResourcesManager.obj
+         Debug\WinResourcesManagerDlg.obj
+         WinResourcesManager.vcxproj -> C:\Users\jinmi\Desktop\20162180198-陈铭海--操作系统课程项目实验\Windows资源管理器--源码\Debug\WinResourcesManager.exe
+     1>已完成生成项目“C:\Users\jinmi\Desktop\20162180198-陈铭海--操作系统课程项目实验\Windows资源管理器--源码\WinResourcesManager\WinResourcesManager.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.23
