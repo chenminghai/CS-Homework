@@ -47,3 +47,17 @@ if_stmt-->if exp then stmt-sequence end | if exp then stmt-sequence else stmt-se
 * 运行截图如下：
 * ![](https://github.com/chenminghai/CS-Homework/blob/master/%E4%BA%94%E5%AD%90%E6%A3%8B%E4%BA%BA%E6%9C%BA%E5%AF%B9%E6%88%98%E6%A1%8C%E9%9D%A2%E6%B8%B8%E6%88%8F-%E5%88%9D%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%AE%9E%E4%BD%9C/1.PNG)
 
+# Web投票系统
+* 这是使用Java+servlet+jsp+Jquery编写的一个web网站
+* 运行截图如下：
+* ![](https://github.com/chenminghai/CS-Homework/blob/master/Web%E6%8A%95%E7%A5%A8%E7%B3%BB%E7%BB%9F-%E4%B8%AD%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%AE%9E%E4%BD%9C/%E5%9B%BE%E7%89%875.png)
+![](https://github.com/chenminghai/CS-Homework/blob/master/Web%E6%8A%95%E7%A5%A8%E7%B3%BB%E7%BB%9F-%E4%B8%AD%E7%BA%A7%E8%BD%AF%E4%BB%B6%E5%AE%9E%E4%BD%9C/%E5%9B%BE%E7%89%876.png)
+
+# 仿Windows资源管理器
+* 这是使用MFC编写的仿Windows资源管理器，此外还有进程管理，文件监控，文件多线程搜索的功能
+* 运行截图如下：
+* ![](https://github.com/chenminghai/CS-Homework/blob/master/Windows%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E9%AA%8C/%E5%9B%BE%E7%89%871.png)
+![](https://github.com/chenminghai/CS-Homework/blob/master/Windows%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E9%AA%8C/%E5%9B%BE%E7%89%872.png)
+![](https://github.com/chenminghai/CS-Homework/blob/master/Windows%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E9%AA%8C/%E5%9B%BE%E7%89%873.png)
+![](https://github.com/chenminghai/CS-Homework/blob/master/Windows%E8%B5%84%E6%BA%90%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%AF%BE%E7%A8%8B%E9%A1%B9%E7%9B%AE%E5%AE%9E%E9%AA%8C/%E5%9B%BE%E7%89%874.png)
+
